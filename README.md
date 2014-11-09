@@ -1,0 +1,1 @@
+This is an Arduino based product to get Facebook likes from a page to a LikeBox resembling split-flap boards from airports so that you can see realtime likes on your Facebook page.
