@@ -4,8 +4,8 @@
 #include <JsonParser.h>
 #include <Stepper.h>
 
-char ssid[] = "LIQVD ASIA";      //  your network SSID (name) 
-char pass[] = "Welcome2LA";   // your network password
+char ssid[] = "XXXX";      //  your network SSID (name) 
+char pass[] = "XXXX";   // your network password
 int keyIndex = 0; 
 int start = 0;
 int end_ =0;
